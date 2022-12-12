@@ -1,0 +1,24 @@
+body {
+    background-color: greenyellow;
+    color: blueviolet;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects{
+    color: forestgreen;
+}
+
+#result_object_name,#result_object_acuraccy{
+color: darkred;
+}
